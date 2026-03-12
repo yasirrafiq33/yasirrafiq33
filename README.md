@@ -1,8 +1,10 @@
 # Yasir Rafiq
 
-**Chief Executive Officer at AY Solutionz** | Senior Software Engineer | Full-Stack JavaScript Development | AI Engineering & Cloud Architecture
+**Senior Software Engineer** at **Turing** | Full-Stack JavaScript (React, Node.js, TypeScript) | AI Integrations | Cloud (GCP) | Scalable Backend Systems
 
-Founder and CEO of **AY Solutionz**, a global enterprise technology solutions provider, while currently building scalable AI-powered solutions at **Turing.com** with 10+ years of experience delivering enterprise-grade applications across MEAN, MERN, and MEVN stacks.
+Senior Software Engineer at **Turing**, building scalable, production-grade applications for US-based teams with over 10 years of experience in full-stack JavaScript development and cloud-native architectures.
+
+I specialize in designing and delivering high-performance backend systems and modern frontend applications using TypeScript, Node.js, React, Next.js, and GCP. My recent work includes developing AI-powered product features using OpenAI APIs, implementing experimentation frameworks, and optimizing data-driven systems at scale.
 
 ---
 
